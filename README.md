@@ -1,3 +1,3 @@
 # firstproject-demo
 First Git Repository
-Author - Tanuj
+Author - Tanuj Rana
